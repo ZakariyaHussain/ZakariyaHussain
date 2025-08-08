@@ -48,7 +48,8 @@ I bring 1 year of experience as a Frontend Developer and 3 years of experience a
 ![Zakariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariyaHussain&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ZakariyaHussain&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZakariyaHussain&theme=tokyonight&hide_border=true)
+
 
 
 
