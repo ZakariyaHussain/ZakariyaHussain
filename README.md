@@ -2,12 +2,28 @@
   <img src="https://drive.google.com/uc?export=view&id=1S9eEP5fv8fToKFSQ9XPWVXpS_2-VLVAn" alt="Zakariya Hussain Profile Photo">
 </p>
 
-### About Me
 ### Hi there 👋, my name is Zakariya Hussain
-#### Professional Frontend Web Developer & WordPress Expert
-Hi, I'm Zakariya Hussain. I'm a Professional Frontend Web Developer & WordPress Expert. I have completed Bachelor degree in Electrical & Electronic Engineering from Atish Dipankar University of Science & Technology. Also I have completed 2 short course on WordPress and Web  Development from Freedom IT Institutions. I have 4 years experience as a Web Designer and WordPress Developer. I have completed 300+ project with WordPress CMS and 50+ project using code.
+#### Frontend Developer
 
-Skills: HTML / CSS/ JAVASCRIPT/ TAILWIND/ REACT/ REACT/ MONGODB/ NODE.JS/ EXPRESS/ NEXTJS  WORDPRESS DEVELOPMENT
+### About Me
+Hi, I'm Zakariya Hussain, a Professional Frontend Web Developer & WordPress Expert.
+I hold a Bachelor’s degree in Electrical & Electronic Engineering from Atish Dipankar University of Science & Technology.
+I have also completed professional training in Web Development from Programming Hero and in Web Development & WordPress from Freedom IT Institutions.
+
+I bring 1 year of experience as a Web Designer and 2 years of experience as a WordPress Developer. Over my career, I have successfully delivered 300+ projects using WordPress CMS and 50+ projects using custom code.
+
+## 🚀 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 - 🔭 I’m currently working on Web Design & Development | WordPress Development. 
 - 🌱 I’m currently learning JavaScript 
