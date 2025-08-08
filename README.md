@@ -3,7 +3,7 @@
 #### Professional Frontend Web Developer & WordPress Expert
 ![image alt](https://drive.google.com/file/d/1S9eEP5fv8fToKFSQ9XPWVXpS_2-VLVAn/view?usp=sharing)
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1S9eEP5fv8fToKFSQ9XPWVXpS_2-VLVAn" width="300" alt="Zakariya Hussain Profile Photo">
+  <img src="https://drive.google.com/uc?export=view&id=1S9eEP5fv8fToKFSQ9XPWVXpS_2-VLVAn" alt="Zakariya Hussain Profile Photo">
 </p>
 Hi, I'm Zakariya Hussain. I'm a Professional Frontend Web Developer & WordPress Expert. I have completed Bachelor degree in Electrical & Electronic Engineering from Atish Dipankar University of Science & Technology. Also I have completed 2 short course on WordPress and Web  Development from Freedom IT Institutions. I have 4 years experience as a Web Designer and WordPress Developer. I have completed 300+ project with WordPress CMS and 50+ project using code.
 
