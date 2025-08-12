@@ -3,10 +3,10 @@
 </p>
 
 ### Hi there 👋, my name is Zakariya Hussain
-#### Frontend Developer
+#### MERN Stack Developer
 
 ### About Me
-Hi, I'm Zakariya Hussain, a Professional Frontend Web Developer & WordPress Expert.
+Hi, I'm Zakariya Hussain, a Professional MERN Stack Developer & WordPress Expert.
 I hold a Bachelor’s degree in Electrical & Electronic Engineering from Atish Dipankar University of Science & Technology.
 I have also completed professional training in Web Development from Programming Hero and in Web Development & WordPress from Freedom IT Institutions.
 
